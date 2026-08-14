@@ -8,7 +8,7 @@ Use 3.13.5 Python
 
 ### Clone the repo
 
-`git clone https://github.com/KevinSchuff/DiVE.git`
+`git clone https://github.com/Frankfurt-BigDataLab/DiVE.git`
 
 ### Change into the project directory
 
